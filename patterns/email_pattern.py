@@ -13,5 +13,5 @@ def extract_emails(text):
 if __name__ == "__main__":
     test_text = "Contact hustler1838@gmail.com and bk.nakuwa@tamam.co.uk"
     print("Test:", test_text)
-    print("=" * 65)
+    print("=" * 63)
     print("Results:", extract_emails(test_text))

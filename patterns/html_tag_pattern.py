@@ -12,5 +12,5 @@ def extract_html_tags(text):
 if __name__ == "__main__":
     test_text = "HTML: <p>Destined for greatness!</p> and <div class='box'>"
     print("Test:", test_text)
-    print("=" * 52)
+    print("=" * 65)
     print("Results:", extract_html_tags(test_text))

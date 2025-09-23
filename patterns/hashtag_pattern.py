@@ -12,5 +12,5 @@ def extract_hashtags(text):
 if __name__ == "__main__":
     test_text = "Trending: #python and #JavaScript"
     print("Test:", test_text)
-    print("=" * 43)
+    print("=" * 41)
     print("Results:", extract_hashtags(test_text))

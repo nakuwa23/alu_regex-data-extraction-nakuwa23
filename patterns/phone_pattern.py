@@ -11,5 +11,5 @@ def extract_phones(text):
 if __name__ == "__main__":
     test_text = "Call (250) 759-4258, 445-321-9780, or 250.312.5842"
     print("Test:", test_text)
-    print("=" * 58)
+    print("=" * 60)
     print("Results:", extract_phones(test_text))

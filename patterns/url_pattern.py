@@ -12,5 +12,5 @@ def extract_urls(text):
 if __name__ == "__main__":
     test_text = "Visit https://www.google.com and http://www.github.com/features"
     print("Test:", test_text)
-    print("=" * 68)
+    print("=" * 70)
     print("Results:", extract_urls(test_text))
