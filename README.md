@@ -79,7 +79,7 @@ Data Extraction Results:
 
 EMAIL_ADDRESSES (2 found):
   - hustler1838@gmail.com
-  - bknakuwa@tamam.co.uk
+  - bk.nakuwa@tamam.co.uk
 
 URLS (1 found):
   - https://www.google.com
